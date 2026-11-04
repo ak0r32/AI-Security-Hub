@@ -1,42 +1,53 @@
-```{=html}
 <p align="center">
-```
-`<a href="https://roadmap.sh/">`{=html}`<img src="https://roadmap.sh/img/brand.png" height="70">`{=html}`</a>`{=html}
-```{=html}
-<h2 align="center">
-```
-`<a href="https://roadmap.sh">`{=html}roadmap.sh`</a>`{=html}
-```{=html}
-</h2>
-```
-```{=html}
+  <a href="https://roadmap.sh/">
+    <img src="https://roadmap.sh/img/brand.png" height="80" alt="roadmap.sh logo"/>
+  </a>
+</p>
+
+<h1 align="center">Interactive Developer Roadmaps & Learning Resources</h1>
+
 <p align="center">
-```
-A collection of interactive learning paths and practical resources for
-technology learners.
-```{=html}
+  Curated collection of interactive learning paths and practical resources for technology learners, inspired and powered by the original <a href="https://roadmap.sh">roadmap.sh</a>.
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<a href="https://roadmap.sh/roadmaps">`{=html}
-`<img src="https://img.shields.io/badge/%E2%9C%A8-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="roadmaps" />`{=html}
-`</a>`{=html} `<a href="https://roadmap.sh/best-practices">`{=html}
-`<img src="https://img.shields.io/badge/%E2%9C%A8-Best%20Practices-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="best practices" />`{=html}
-`</a>`{=html} `<a href="https://roadmap.sh/questions">`{=html}
-`<img src="https://img.shields.io/badge/%E2%9C%A8-Questions-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="videos" />`{=html}
-`</a>`{=html}
-`<a href="https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1">`{=html}
-`<img src="https://img.shields.io/badge/%E2%9C%A8-YouTube%20Channel-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="roadmaps" />`{=html}
-`</a>`{=html}
-```{=html}
+  <a href="https://github.com/ak0r32" target="_blank">
+    <img alt="@ak0r32 GitHub Profile" src="https://img.shields.io/badge/GitHub-ak0r32-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/ak0r32/roadmaps-resource-readme/stargazers" target="_blank">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/ak0r32/roadmaps-resource-readme?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/ak0r32/roadmaps-resource-readme/issues" target="_blank">
+    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/ak0r32/roadmaps-resource-readme?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/ak0r32/roadmaps-resource-readme/actions" target="_blank">
+    <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/ak0r32/roadmaps-resource-readme/ci.yml?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://twitter.com/intent/follow?screen_name=ak0r32" target="_blank">
+    <img alt="Follow @ak0r32 on Twitter" src="https://img.shields.io/twitter/follow/ak0r32?style=for-the-badge&logo=twitter" />
+  </a>
 </p>
-```
-```{=html}
+
+---
+
+<!-- Original roadmap content starts below, unchanged -->
+
+<p align="center">
+  <a href="https://roadmap.sh/roadmaps">
+    <img src="https://img.shields.io/badge/%E2%9C%A8-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="roadmaps" />
+  </a>
+  <a href="https://roadmap.sh/best-practices">
+    <img src="https://img.shields.io/badge/%E2%9C%A8-Best%20Practices-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="best practices" />
+  </a>
+  <a href="https://roadmap.sh/questions">
+    <img src="https://img.shields.io/badge/%E2%9C%A8-Questions-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="videos" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/%E2%9C%A8-YouTube%20Channel-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="roadmaps" />
+  </a>
 </p>
-```
-`<br>`{=html}
+
+<br>
 
 ![](https://i.imgur.com/waxVImv.png)
 
@@ -54,12 +65,9 @@ explanations and related learning material.
 > review the original site's terms and the upstream repository license
 > before redistributing or reusing its content.
 
-The directory below links to the roadmaps currently available. The
-collection may grow as new learning paths are published.
+<!-- (Rest of the original content continues unchanged) -->
 
-> If you are unsure where to begin, use the [getting started
-> guide](https://roadmap.sh/get-started) to choose a suitable learning
-> path.
+
 
 -   [Frontend Roadmap](https://roadmap.sh/frontend) / [Frontend Beginner
     Roadmap](https://roadmap.sh/frontend?r=frontend-beginner)
